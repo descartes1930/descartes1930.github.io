@@ -1,4 +1,5 @@
 - name: Home
   link: /
+# the url must add the '.' before.Or locally it doesn't matter, in the github is wrong   
 - name: About
   link: ./about.html  
